@@ -280,7 +280,6 @@
             android:backgroundTint="#DAC0A3"
             tools:layout_editor_absoluteX="55dp"
             tools:layout_editor_absoluteY="588dp"
-            android:drawableRight="@drawable/baseline_arrow_forward_24"
             android:drawableLeft="@drawable/help"/>
     </LinearLayout>
 
